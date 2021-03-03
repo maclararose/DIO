@@ -1,0 +1,13 @@
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\bin\Debug\netcoreapp3.1\Pilha.exe
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\bin\Debug\netcoreapp3.1\Pilha.deps.json
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\bin\Debug\netcoreapp3.1\Pilha.runtimeconfig.json
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\bin\Debug\netcoreapp3.1\Pilha.runtimeconfig.dev.json
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\bin\Debug\netcoreapp3.1\Pilha.dll
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\bin\Debug\netcoreapp3.1\Pilha.pdb
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.csprojAssemblyReference.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.AssemblyInfoInputs.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.AssemblyInfo.cs
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.dll
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.pdb
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Pilha\obj\Debug\netcoreapp3.1\Pilha.genruntimeconfig.cache
