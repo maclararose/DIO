@@ -1,0 +1,13 @@
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.exe
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.deps.json
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.json
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.genruntimeconfig.cache
