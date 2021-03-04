@@ -1,0 +1,4 @@
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csprojAssemblyReference.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfo.cs
+C:\Users\MaryR\OneDrive\Documentos\Folder\DIO\DIO\dotnet - I\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csproj.CoreCompileInputs.cache
